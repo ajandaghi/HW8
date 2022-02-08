@@ -1,4 +1,8 @@
 package entity;
 
-public class Admin {
+public class Admin extends User{
+
+    public Admin() {
+        super();
+    }
 }
